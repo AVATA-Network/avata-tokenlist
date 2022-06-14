@@ -100,6 +100,14 @@
             "name": "Pangolin",
             "symbol": "PNG",
             "logoURI": "https://raw.githubusercontent.com/AVATA-Network/avata-tokenlist/master/logos/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+        },
+        {
+            "chainId": 43114,
+            "address": "0x5947BB275c521040051D82396192181b413227A3",
+            "decimals": 18,
+            "name": "Chainlink Token",
+            "symbol": "LINK.e",
+            "logoURI": "https://raw.githubusercontent.com/AVATA-Network/avata-tokenlist/master/logos/0x5947BB275c521040051D82396192181b413227A3/logo.png"
         }
     ],
     "timestamp": "2021-06-8T00:00:00+00:00"
